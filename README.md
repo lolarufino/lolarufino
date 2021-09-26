@@ -2,7 +2,7 @@
 
 I am Lola! I went from photographer 📷 to web developer 👩‍💻, deciding to change camera's "click" for the mouse's one.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lolarufino&theme=lightpink-gray)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lolarufino&theme=pink-gray)
 
 You can reach me at:
 
