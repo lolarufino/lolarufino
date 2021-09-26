@@ -2,5 +2,5 @@
 
 I am Lola! I went from photographer 📷 to web developer 👩‍💻, deciding to change camera's "click" for the mouse's one.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lolarufino&left_color=lightpink&right_color=gray)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=lolarufino&left_color=lightpink&right_color=gray)
   
