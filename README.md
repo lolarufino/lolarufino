@@ -1,5 +1,7 @@
-![enter image description here](https://i.ibb.co/Qv5xMym/header.png)
 <p align="center">
+
+![enter image description here](https://i.ibb.co/Qv5xMym/header.png)
+
 I am Lola! I went from photographer 📷 to web developer 👩‍💻, deciding to change camera's "click" for the mouse's one.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lolarufino&theme=lightpink-gray)
