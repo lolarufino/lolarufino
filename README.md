@@ -2,7 +2,9 @@
 
 I am Lola! I went from photographer 📷 to web developer 👩‍💻, deciding to change camera's "click" for the mouse's one.
 
-This is my GitHub profile where I share my projects so you can take a look to my code and to what I've been creating.
+🙋‍... This is my GitHub profile where I share my projects so you can take a look to my code and to what I've been creating.
+
+💻🖱️... Some of the technologies I use: HTML | CSS | Javascript | REACT | REDUX | VUE | Vuex | Jest | SASS | BEM | Git | GitHub | NodeJS | ExpressJS | MongoDB | Mongoose | PostMan | Passport
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lolarufino&theme=pink-gray)
 
