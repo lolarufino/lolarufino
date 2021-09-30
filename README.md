@@ -12,7 +12,7 @@ I am Lola! I went from photographer 📷 to web developer 👩‍💻, deciding 
 
 Other technologies: Git | GitHub | Trello | Slack | Excalidraw | Figma
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lolarufino&theme=pink-gray)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolarufino&layout=compact&true&theme=radical)](https://github.com/lolarufino/github-readme-stats)
 
 You can reach me at:
 
