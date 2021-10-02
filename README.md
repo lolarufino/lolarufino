@@ -6,7 +6,7 @@ I am Lola! I went from photographer 📷 to web developer 👩‍💻, deciding 
 
 💻🖱️... Some of the technologies I use: 
 
-⭐ Frontend: HTML | CSS | Javascript | React | Redux | Vue | Vuex | Jest | SASS | BEM | Typescript
+⭐ Frontend: HTML | CSS | Javascript | Vue | Vuex | React | Redux | Jest | SASS | BEM | Typescript
 
 ⭐ Backend: NodeJS | ExpressJS | MongoDB | Mongoose | PostMan | Passport | JWT | API Restful
 
