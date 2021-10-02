@@ -1,4 +1,4 @@
-![enter image description here](https://i.ibb.co/Qv5xMym/header.png)
+![Header](https://i.ibb.co/Qv5xMym/header.png)
 
 I am Lola! I went from photographer 📷 to web developer 👩‍💻, deciding to change camera's "click" for the mouse's one.
 
@@ -19,11 +19,9 @@ I am Lola! I went from photographer 📷 to web developer 👩‍💻, deciding 
 
 You can reach me at:
 
-[![enter image description here](https://i.ibb.co/YpgsDZK/4584660-linkedin-logo-media-network-social-icon-1.png)](https://www.linkedin.com/in/lola-rufino/) [![enter image description here](https://i.ibb.co/NYdy5v5/4584662-logo-media-network-social-twitter-icon.png)](https://twitter.com/lolarufino) [![enter image description here](https://i.ibb.co/XtjwGpd/4584657-flickr-logo-media-network-social-icon.png)](https://www.flickr.com/photos/lolarufino/)
+[![Linkedin media logo](https://i.ibb.co/YpgsDZK/4584660-linkedin-logo-media-network-social-icon-1.png)](https://www.linkedin.com/in/lola-rufino/) [![Twitter media logo](https://i.ibb.co/NYdy5v5/4584662-logo-media-network-social-twitter-icon.png)](https://twitter.com/lolarufino) [![Flickr media logo](https://i.ibb.co/XtjwGpd/4584657-flickr-logo-media-network-social-icon.png)](https://www.flickr.com/photos/lolarufino/)
 
 Or send me an e-mail to: 📫 lola.ruf.ar@gmail.com 
 
-![enter image description here](https://i.ibb.co/92FHL4d/pusheencode.gif)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lolarufino&left_color=lightpink&right_color=gray)
+![Pusheen programming happy](https://i.ibb.co/92FHL4d/pusheencode.gif)
   
