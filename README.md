@@ -19,6 +19,8 @@ I am Lola! I went from photographer 📷 to web developer 👩‍💻, deciding 
 
 You can reach me at:
 
+[![Lola Rufino Dev](https://i.ibb.co/8P4xTm2/banner.png)](https://www.lolarufino.dev)
+
 [![Linkedin media logo](https://i.ibb.co/YpgsDZK/4584660-linkedin-logo-media-network-social-icon-1.png)](https://www.linkedin.com/in/lola-rufino/) [![Twitter media logo](https://i.ibb.co/NYdy5v5/4584662-logo-media-network-social-twitter-icon.png)](https://twitter.com/lolarufino) [![Flickr media logo](https://i.ibb.co/XtjwGpd/4584657-flickr-logo-media-network-social-icon.png)](https://www.flickr.com/photos/lolarufino/)
 
 Or send me an e-mail to: 📫 lola.ruf.ar@gmail.com 
